@@ -1,0 +1,15 @@
+2022-11-18 10:50:09,[action]logging cell is build
+2022-11-18 11:38:04,[action]download all files success
+2022-11-18 13:32:11,[action]Extract function complete
+2022-11-18 13:34:04,[action]Start to coding transform function
+2022-11-18 14:09:11,[action]tranform function is complete
+2022-11-18 14:11:20,[action]Started to coding load function
+2022-11-18 14:16:58,[action]Extract phase Started
+2022-11-18 14:16:58,[action]Extract phase Ended
+2022-11-18 14:17:02,[action]Transform phase Started
+2022-11-18 14:17:12,[action]Transform phase Started
+2022-11-18 14:17:13,[action]Transform phase Ended
+2022-11-18 14:17:16,[action]Load phase Started
+2022-11-18 14:17:16,[action]Load phase Ended
+2022-11-18 14:17:19,[action]ETL process is complete
+2022-11-18 14:17:28,[action]check target file
