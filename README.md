@@ -8,4 +8,9 @@ we need to exchange the US$ to GBP$, the exchange information need to be latest 
 tasks focus on whole Extract, Transfor, Load process.
 
 # The architecture before starting coding
+objective cell, path cell, logging cell, main ETL cell, testing cell
+work meaningful in each cell
+
 # The good habit to building a comfortable folder
+download file will place in folder, not crowed together
+file naming are make sense to read
